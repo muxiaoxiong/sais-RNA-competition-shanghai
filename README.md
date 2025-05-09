@@ -6,3 +6,7 @@
 https://competition.sais.com.cn/competitionDetail/532314/
 
 # 开源成绩排名
+![](src/img.png)
+
+# 比赛数据集
+项目中的data文件
